@@ -1,2 +1,3 @@
 # toy_ds_project
-dsci100-demo
+
+project creation date: May 30, 2023 
